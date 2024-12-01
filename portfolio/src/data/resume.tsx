@@ -1,5 +1,4 @@
 import { Icons } from "@/components/icons";
-import { button, video } from "framer-motion/client";
 import { HomeIcon, NotebookIcon } from "lucide-react";
 
 export const DATA = {
@@ -121,7 +120,7 @@ export const DATA = {
   /* EDUCATION */
   education: [
     {
-      school: "Universidad Tecnológica Nacional · Facultad Regional Córdoba",
+      school: "Universidad Tecnológica Nacional · FRC",
       href: "https://www.frc.utn.edu.ar/",
       degree: "Information Systems Engineering",
       location: "Córdoba, Argentina",
