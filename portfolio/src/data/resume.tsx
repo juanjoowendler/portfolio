@@ -85,7 +85,7 @@ export const DATA = {
     {
       company: "Freelance",
       location: "Remote",
-      badges: ["Frontend", "HTML5", "CSS3"],
+      badges: ["HTML5", "CSS3"],
       logoUrl: "./freelance.png",
       title: "Freelance Web Developer",
       start: "Jan 2021",
@@ -105,7 +105,7 @@ export const DATA = {
         "Focused on client relationships, issue resolution, and teamwork.",
     },
     {
-      company: "Freelance / Cornwall Institute",
+      company: "Cornwall Institute",
       location: "Córdoba, Argentina",
       badges: ["English", "Teaching"],
       logoUrl: "./cornwall.jpg",
