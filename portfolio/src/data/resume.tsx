@@ -96,7 +96,7 @@ export const DATA = {
     {
       company: "Spring Smart Accessories",
       location: "Córdoba, Argentina",
-      badges: ["Sales", "Technical Service"],
+      badges: ["Sales"],
       logoUrl: "./spring.png",
       title: "Sales and Customer Service Representative",
       start: "Nov 2021",
