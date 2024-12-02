@@ -173,7 +173,7 @@ export default function Page() {
           and I&apos;ll respond whenever I can. You can also download my CV below.
         </p>
         {/* Botones para descargar el CV */}
-        <div className="flex gap-4 justify-center">
+        <div className="flex gap-4 justify-center flex-col md:flex-row">
           <Link href="https://drive.google.com/file/d/16iqmftG-t3AGiYxZ_EA0kq7MrLz4fHkx/view?usp=sharing" download>
             <Button variant="default" size="default">
               Download CV (English)
