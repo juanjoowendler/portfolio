@@ -151,12 +151,21 @@ export const DATA = {
       end: "2023",
     },
     {
-      school: "Self-Taught",
+      school: "Unity",
       degree: "Video Game Programming with Unity",
       location: "Córdoba, Argentina",
       logoUrl: "./unity.jpg",
       start: "2020",
       end: "2021",
+    },
+    {
+      school: "World TESOL Academy",
+      href: "https://www.worldtesolacademy.com/",
+      degree: "TESOL/TEFL",
+      location: "United Kingdom",
+      logoUrl: "./tesol.png",
+      start: "2019",
+      end: "2020",
     },
   ],
 
