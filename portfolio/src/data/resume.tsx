@@ -8,8 +8,7 @@ export const DATA = {
   location: "Córdoba, Argentina",
   locationLink:
     "https://www.google.com/maps/place/C%C3%B3rdoba/@-31.3994532,-64.1942123,12z/data=!3m1!4b1!4m6!3m5!1s0x9432985f478f5b69:0xb0a24f9a5366b092!8m2!3d-31.4200833!4d-64.1887761!16zL20vMDFrMDNy?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
-  description:
-    "Junior Full Stack Web Developer and Information Systems Engineering student.",
+  description: "Junior Full Stack Web Developer & Designer",
   summary:
     "I’m an Information Systems Engineering student with hands-on experience in Full Stack development. I’ve built systems using React, Node.js, Spring Boot, and Python, and I thrive in collaborative environments where I can solve problems and learn new technologies quickly.",
   avatarUrl: "/me.png",
@@ -20,16 +19,19 @@ export const DATA = {
     "HTML5",
     "CSS3",
     "JavaScript",
+    "UX/UI",
+    "Figma",
+    "Frontend Development",
 
     // Backend
     "Node.js",
     "Express",
     "Spring Boot",
     "Python",
-    "Sequelize",
+    "Java",
     "SQLite",
     "MySQL",
-    "Java",
+    "APIs RESTful",
 
     // DevOps & Tools
     "Git",
@@ -41,7 +43,9 @@ export const DATA = {
 
     // Methodologies & Frameworks
     "Microservices",
-    "Agile Methodologies",
+    "MVC",
+    "Agile",
+    "Testing",
   ],
   navbar: [{ href: "/", icon: HomeIcon, label: "Home" }],
   /* CONTACT */
@@ -85,11 +89,11 @@ export const DATA = {
     {
       company: "Freelance",
       location: "Remote",
-      badges: ["HTML5", "CSS3"],
+      badges: ["HTML5", "CSS3", "JavaScript"],
       logoUrl: "./freelance.png",
-      title: "Freelance Web Developer",
+      title: "Development of Static Websites",
       start: "Jan 2021",
-      end: "Ongoing",
+      end: "Present",
       description:
         "Developed responsive static websites for small businesses using HTML5, CSS3, and JavaScript, improving their online presence and user experience.",
     },
@@ -98,18 +102,18 @@ export const DATA = {
       location: "Córdoba, Argentina",
       badges: ["Sales"],
       logoUrl: "./spring.png",
-      title: "Sales and Customer Service Representative",
+      title: "Sales Representative and Customer Service",
       start: "Nov 2021",
       end: "Mar 2023",
       description:
         "Focused on client relationships, issue resolution, and teamwork.",
     },
     {
-      company: "Cornwall Institute",
+      company: "Cornwall Institute Panama",
       location: "Córdoba, Argentina",
       badges: ["English", "Teaching"],
       logoUrl: "./cornwall.jpg",
-      title: "Private English Tutor & English Teacher",
+      title: "English Teacher",
       start: "Jun 2019",
       end: "Dec 2020",
       description:
@@ -120,39 +124,39 @@ export const DATA = {
   /* EDUCATION */
   education: [
     {
-      school: "Universidad Tecnológica Nacional · FRC",
+      school: "National Technological University · UTN FRC",
       href: "https://www.frc.utn.edu.ar/",
-      degree: "Information Systems Engineering",
+      degree: "Bachelor's Degree in Information Systems Engineering",
       location: "Córdoba, Argentina",
       logoUrl: "./UTN.jpg",
       start: "2021",
-      end: "Ongoing",
+      end: "2026",
     },
     {
-      school: "Cornwall Institute Panamá",
+      school: "Cornwall Institute Panama",
       href: "https://www.instagram.com/clinstitute/?hl=es-la",
       degree: "English Studies",
       location: "Online",
       logoUrl: "./cornwall.jpg",
-      start: "Jan 2012",
-      end: "Ongoing",
+      start: "2012",
+      end: "2026",
     },
     {
       school: "FreeCodeCamp",
       href: "https://www.freecodecamp.org/",
-      degree: "Responsive Web Design Certification for Static Pages",
+      degree: "Responsive Web Design",
       location: "Online",
       logoUrl: "./freecodecamp.jpg",
-      start: "Dec 2022",
-      end: "Mar 2023",
+      start: "2022",
+      end: "2023",
     },
     {
       school: "Self-Taught",
       degree: "Video Game Programming with Unity",
-      location: "Online",
+      location: "Córdoba, Argentina",
       logoUrl: "./unity.jpg",
-      start: "Dec 2020",
-      end: "Mar 2021",
+      start: "2020",
+      end: "2021",
     },
   ],
 
@@ -248,13 +252,7 @@ export const DATA = {
       active: true,
       description:
         "Here are some of my personal freelance projects. Mostly web static pages.",
-      technologies: [
-        "HTML5",
-        "CSS3",
-        "Photoshop",
-        "Web Design",
-        "GitHub",
-      ],
+      technologies: ["HTML5", "CSS3", "Photoshop", "Web Design", "GitHub"],
       links: [
         {
           type: "Source",
@@ -265,7 +263,7 @@ export const DATA = {
           type: "Website",
           href: "https://lascolinas.netlify.app/",
           icon: <Icons.globe className="size-3" />,
-        }
+        },
       ],
       image: "",
       video: "./general.mp4",
