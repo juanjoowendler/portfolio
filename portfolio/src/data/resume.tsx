@@ -172,7 +172,7 @@ export const DATA = {
   /* PROJECTS */
   projects: [
     {
-      title: "Car Agency: Backend System for Used Car Sales",
+      title: "⭐ Car Agency: Backend System for Used Car Sales",
       href: "https://github.com/juanjoowendler/car-agency",
       dates: "Aug 2024 - Nov 2024",
       active: true,
@@ -198,7 +198,7 @@ export const DATA = {
       video: "./agency.mp4",
     },
     {
-      title: "Interactive Voice Response (IVR) System",
+      title: "⭐ Interactive Voice Response (IVR) System",
       href: "https://github.com/juanjoowendler/utn-project-IVR-System",
       dates: "Mar 2023 - Nov 2023",
       active: true,
@@ -226,7 +226,7 @@ export const DATA = {
       video: "./ivr.mp4",
     },
     {
-      title: "Node.js and React REST API for Resource Management",
+      title: "⭐ Node.js and React REST API for Resource Management",
       href: "https://github.com/juanjoowendler/utn-project-utnflix",
       dates: "Mar 2024 - Jun 2024",
       active: true,
