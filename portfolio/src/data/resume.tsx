@@ -87,12 +87,12 @@ export const DATA = {
   /* WORK */
   work: [
     {
-      company: "Freelance",
+      company: "Web developer",
       location: "Remote",
       badges: ["HTML5", "CSS3", "JavaScript"],
       logoUrl: "./freelance.png",
       title: "Development of Static Websites",
-      start: "Jan 2021",
+      start: "June 2021",
       end: "Present",
       description:
         "Developed responsive static websites for small businesses using HTML5, CSS3, and JavaScript, improving their online presence and user experience.",
@@ -103,8 +103,8 @@ export const DATA = {
       badges: ["Sales"],
       logoUrl: "./spring.png",
       title: "Sales Representative and Customer Service",
-      start: "Nov 2021",
-      end: "Mar 2023",
+      start: "November 2021",
+      end: "March 2023",
       description:
         "Focused on client relationships, issue resolution, and teamwork.",
     },
@@ -114,8 +114,8 @@ export const DATA = {
       badges: ["English", "Teaching"],
       logoUrl: "./cornwall.jpg",
       title: "English Teacher",
-      start: "Jun 2019",
-      end: "Dec 2020",
+      start: "June 2019",
+      end: "December 2020",
       description:
         "Designed personalized lessons and improved communication skills.",
     },
