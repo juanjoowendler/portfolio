@@ -174,12 +174,12 @@ export default function Page() {
         </p>
         {/* Botones para descargar el CV */}
         <div className="flex gap-4 justify-center flex-col md:flex-row">
-          <Link href="https://drive.google.com/file/d/1kF-Flp6YUm8enXYgeVLUCSPxdJqeGF0m/view?usp=sharing" download>
+          <Link href="https://drive.google.com/file/d/1gIMbSKAefUnXT3bkl0gfRx_EOakrMwWy/view?usp=sharing" download>
             <Button variant="default" size="default">
               Download CV (English)
             </Button>
           </Link>
-          <Link href="https://drive.google.com/file/d/1aKsAW2MVAhCCjJ_BsoEYLKsXqLSxaMS7/view?usp=sharing" download>
+          <Link href="https://drive.google.com/file/d/1ghvuPY-rE9x8aF8z6fXr5eRghyokZwYf/view?usp=sharing" download>
             <Button variant="default" size="default">
             Download CV (Spanish)
             </Button>
