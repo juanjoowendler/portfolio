@@ -42,7 +42,7 @@ export default function Page() {
       </section>
       <section id="about">
         <BlurFade delay={BLUR_FADE_DELAY * 3}>
-          <h2 className="text-xl font-bold">IMPORTANT!!!!!!!!!!</h2>
+          <h2 className="text-xl font-bold">⚠️IMPORTANTE!!!!!!!!!!</h2>
         </BlurFade>
         <BlurFade delay={BLUR_FADE_DELAY * 4}>
           <Markdown className="prose max-w-full text-pretty font-sans text-sm text-muted-foreground dark:prose-invert">
