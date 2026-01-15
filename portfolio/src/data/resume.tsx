@@ -10,7 +10,7 @@ export const DATA = {
     "https://www.google.com/maps/place/C%C3%B3rdoba/@-31.3994532,-64.1942123,12z/data=!3m1!4b1!4m6!3m5!1s0x9432985f478f5b69:0xb0a24f9a5366b092!8m2!3d-31.4200833!4d-64.1887761!16zL20vMDFrMDNy?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
   description: "Junior Full Stack Web Developer & Designer",
   summary:
-    "(!) SI VENIS DE OTRO CV, ESTE PORTAFOLIOS ESTA DESACTUALIZADO, NUEVO LINK: https://tinyurl.com/view-portfolio-spanish-lang \n(!) IF YOU ARE COMING FROM ANOTHER CV, THIS PORTFOLIO IS OUTDATED. NEW LINK: https://colossal-red-393.notion.site/Juan-Jos-Wendler-2e8d372a7c998074bc48dcf0ddd330e9",
+    "(!) SI VENIS DE OTRO CV, ESTE PORTAFOLIOS ESTA DESACTUALIZADO, NUEVO LINK: https://tinyurl.com/view-portfolio-spanish-lang",
   avatarUrl: "/me.png",
   skills: [
     // Frontend
