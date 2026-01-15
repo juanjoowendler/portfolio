@@ -10,7 +10,7 @@ export const DATA = {
     "https://www.google.com/maps/place/C%C3%B3rdoba/@-31.3994532,-64.1942123,12z/data=!3m1!4b1!4m6!3m5!1s0x9432985f478f5b69:0xb0a24f9a5366b092!8m2!3d-31.4200833!4d-64.1887761!16zL20vMDFrMDNy?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D",
   description: "Junior Full Stack Web Developer & Designer",
   summary:
-    "(!) SI VENIS DE OTRO CV, ESTE PORTAFOLIOS ESTA DESACTUALIZADO, NUEVO LINK: https://tinyurl.com/view-portfolio-spanish-lang",
+    "(!) SI VENIS DE OTRO CV, ESTE PORTAFOLIOS Y CV ESTAN DESACTUALIZADOS. NUEVO LINK: https://tinyurl.com/view-portfolio-spanish-lang",
   avatarUrl: "/me.png",
   skills: [
     // Frontend
